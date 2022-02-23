@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1zhang&hide=css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://stats.justsong.cn/api/leetcode?username=zhang-o3&cn=true" ><img src="https://stats.justsong.cn/api/csdn?id=qq_48519116" >
+<img src="https://stats.justsong.cn/api/leetcode?username=zhangz1&cn=true" ><img src="https://stats.justsong.cn/api/csdn?id=qq_48519116" >
